@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josola
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning Python, Javascript, Java.
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me: jordan.sola@gmail.com
 
 <!---
