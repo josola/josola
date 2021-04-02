@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @josola
-- 👀 I’m interested in software.
-- 💞️ I’m looking to collaborate on software development.
-- 📫 How to reach me: jordan.sola@gmail.com
+### Hi, I'm Jordan
 
-<!---
-josola/josola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work on documentation and write applications.
+
+I am a contributor to:
+
+- [Documentation for Visual Studio Code](https://github.com/microsoft/vscode-docs) and its [wiki](https://github.com/microsoft/vscode-wiki)
+- [Documentation for Natron](https://github.com/NatronGitHub/Natron).
+
+I have written:
+
+- [Missive](https://github.com/josola/missive): A texted based card game where you knock out other opponents in a competition for the love of the Emperor's daugter The Grand Duchess.
+- Eighteen different algorithms to solve [Project Euler](https://github.com/josola/project-euler) problems.
+- A [Bingo Card Generator](https://github.com/josola/bingo-card-generator) that outputs random numbers, that follow bingo card rules, to a CSV file for data merge in prepress work.
+
+If you would like to contact me:
+
+- Follow me on Twitter [@NadrojAlos](https://twitter.com/NadrojAlos)
+- Email me at jordan.sola@gmail.com
+
+I am currently looking to join a team as a contributor. If you have work that you think I might be good for please reach out, I am currently open to new work.
