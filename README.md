@@ -12,6 +12,8 @@ I have written:
 - [Missive](https://github.com/josola/missive): A texted based card game where you knock out other opponents in a competition for the love of the Emperor's daugter The Grand Duchess.
 - Eighteen different algorithms to solve [Project Euler](https://github.com/josola/project-euler) problems.
 - A [Bingo Card Generator](https://github.com/josola/bingo-card-generator) that outputs random numbers, that follow bingo card rules, to a CSV file for data merge in prepress work.
+- Multiple solutions to [Hacker Rank](https://github.com/josola/HackerRank-Solutions) problems.
+- [Hangman](https://github.com/josola/Hangman), a console app that allows you to play hangman by yourself.
 
 If you would like to contact me:
 
