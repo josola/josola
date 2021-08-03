@@ -1,13 +1,20 @@
-### Hi, I'm Jordan
+<div align="center">
+  
+  <h1> Hi, I'm Jordan 👋 </h1>
+  
+  I work on documentation and write applications.
+  
+  [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=http://www.jordansola.com)](http://www.jordansola.com)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/NadrojAlos?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffmbnicola&screen_name=NadrojAlos)
+  
+</div>
 
-I work on documentation and write applications.
-
-I am a contributor to:
+### I am a contributor to:
 
 - [Documentation for Visual Studio Code](https://github.com/microsoft/vscode-docs) and its [wiki](https://github.com/microsoft/vscode-wiki)
 - [Documentation for Natron](https://github.com/NatronGitHub/Natron).
 
-I have written:
+### I have written:
 
 - [Missive](https://github.com/josola/missive): A texted based card game where you knock out other opponents in a competition for the love of the Emperor's daugter The Grand Duchess.
 - Eighteen different algorithms to solve [Project Euler](https://github.com/josola/project-euler) problems.
@@ -15,9 +22,9 @@ I have written:
 - Multiple solutions to [Hacker Rank](https://github.com/josola/HackerRank-Solutions) problems.
 - [Hangman](https://github.com/josola/Hangman), a console app that allows you to play hangman by yourself.
 
-If you would like to contact me:
-
-- Follow me on Twitter [@NadrojAlos](https://twitter.com/NadrojAlos)
-- Email me at jordan.sola@gmail.com
-
-I am currently looking to join a team as a contributor. If you have work that you think I might be good for please reach out, I am currently open to new work.
+<div align="center">
+  
+  [![josola's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=josola&count_private=true&theme=tokyonight&showicons=true)]()
+  [![josola's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josola&layout=compact&theme=tokyonight)]()
+  
+</div>
