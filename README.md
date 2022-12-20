@@ -16,6 +16,7 @@
 
 ### I have written:
 
+- [Palindrome](https://github.com/josola/palindrome): A tool that checks whether a number, name, poem, word, or sentence is the same when it's reversed.
 - Twenty-three different algorithms to solve [Project Euler](https://github.com/josola/project-euler) problems.
 - [Missive](https://github.com/josola/missive): A texted-based card game where you knock out other opponents in a competition for the love of the Emperor's daughter The Grand Duchess.
 - A [Bingo Card Generator](https://github.com/josola/bingo-card-generator) that outputs random numbers, that follow bingo card rules, to a CSV file for data merge in prepress work.
